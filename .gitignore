@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node modules
+node_modules/
+
+# Private keys and sensitive data
+src/config/private_keys_backup.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
